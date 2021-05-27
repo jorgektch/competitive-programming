@@ -1,4 +1,4 @@
-# competitive-programming
+# Competitive Programming
 Competitive Programming
 
 # My Solutions
